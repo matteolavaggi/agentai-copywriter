@@ -125,6 +125,22 @@ Questa struttura ti permette di tenere insieme, per ogni contenuto, il file sorg
 
 **Risultati migliori.** Le app di content creation lavorano con prompt generici e template standard. Questo sistema lavora con il tuo contesto completo: posizionamento, tono di voce, CTA, piano editoriale. Il risultato è un contenuto che rispecchia davvero il tuo brand, non un testo generico da adattare.
 
+## Come ottenere il progetto
+
+Puoi ottenere il progetto completo in due modi:
+
+**Clonando il repository da GitHub**
+
+```bash
+git clone https://github.com/matteolavaggi/agentai-copywriter
+```
+
+**Scaricando il file zip**
+
+Se preferisci non usare Git, puoi scaricare direttamente l'archivio completo da questo link: [Download progetto completo](https://drive.google.com/file/d/10L5PAo1ri9W5bZ4hJ-6BVQEiGzNNfd0s/view?usp=sharing)
+
+Una volta scaricato, estrai il contenuto e aprilo con VS Code.
+
 ## Come iniziare
 
 Il primo passo è scrivere il tuo personal brand in Google Docs. Non deve essere perfetto: può evolvere nel tempo. L'importante è che contenga le informazioni essenziali su chi sei, come comunichi e cosa produci.
