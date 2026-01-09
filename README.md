@@ -8,6 +8,8 @@ Questa soluzione è completamente gratuita e sostituisce abbonamenti mensili a t
 
 ➡️ Approfondimento completo: [matteolavaggi.it/agentai-copywriter](https://www.matteolavaggi.it/agentai-copywriter)
 
+Vuoi scaricare una copia di questa guida? [Clicca qui](https://drive.google.com/file/d/16tx7M1D1_cFdRFa1XhtQ4_mWG8wnMxwS/view?usp=sharing)
+
 ## Il problema che risolve
 
 Quando usi ChatGPT, Claude o altri chatbot per creare contenuti, devi fornire ogni volta il contesto: chi sei, come scrivi, a chi parli, che formato vuoi. Questo genera tre problemi concreti:
